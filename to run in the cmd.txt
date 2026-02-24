@@ -1,4 +1,0 @@
-streamlit run frontend.py
-uvicorn app:app --reload
-venv\Scripts\activate
-
