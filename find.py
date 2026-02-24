@@ -1,3 +1,5 @@
+#this file is to find models - not connected to the project
+
 import google.generativeai as genai
 import os
 from dotenv import load_dotenv
